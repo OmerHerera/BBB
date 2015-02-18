@@ -1,0 +1,22 @@
+{
+    "name": "browserfyAndbackbone",
+    "version": "0.0.1",
+    "description": "browserfy and backbone sitting on a tree",
+    "main": "main.js",
+    "scripts": {
+        "start": "beefy main.js:mainbundle.js --live",
+        "build": "browserify main.js -o mainbundle.js"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "backbone": "1.1.x"
+        , "jquery": "2.1.x"
+        , "underscore": "1.7.x"
+    },
+    "devDependencies": {
+        "beefy": "^2.1.2",
+        "browserify": "^8.1.1",
+        "hbsfy": "^2.2.1"
+    }
+}

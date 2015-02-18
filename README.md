@@ -3,6 +3,10 @@ BBB
 
 Simple SPA using Backbone + Browserfy + Bootstrap
 
+* B - Backbone
+* B - Browserfy
+* B - Bootstrap
+
 This is a simple SPA using Backbone + Browserfy + Bootstrap.
 
 In order to start using.
@@ -12,3 +16,6 @@ In order to start using.
 * Run server ```npm start```
 * You must see a SPA, with Marvel Heroes
 * Enjoy !
+
+You can see it in:
+[BBB](http://omerherera.github.io/BBB/)

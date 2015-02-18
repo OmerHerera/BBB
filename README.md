@@ -1,13 +1,13 @@
 BBB
 ==================
 
-Simple SPA using Backbone + Browserfy + Bootstrap
+Simple SPA using Backbone + Browserify + Bootstrap
 
 * B - Backbone
 * B - browserify
 * B - Bootstrap
 
-This is a simple SPA using Backbone + Browserfy + Bootstrap.
+This is a simple SPA using Backbone + Browserify + Bootstrap.
 
 In order to start using.
 

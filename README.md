@@ -4,7 +4,7 @@ BBB
 Simple SPA using Backbone + Browserfy + Bootstrap
 
 * B - Backbone
-* B - Browserfy
+* B - browserify
 * B - Bootstrap
 
 This is a simple SPA using Backbone + Browserfy + Bootstrap.
